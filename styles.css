@@ -1,6 +1,6 @@
 body {
     background-color:rgb(33, 33, 33);
-    align-items:center
+    align-items:center;
 }
 
 p {
@@ -17,22 +17,24 @@ h1 {
 h2 {
     font-size: 40px;
     text-align: center;
-    color:azure
-    font-family:
+    color:azure;
+    font-family:Helvetica;
 }
 
 li {
     font-size: 20px;
-    text-align:center;
     color:rgb(255, 255, 255);
+    font-family:Helvetica;
 }
 
 ol {
     font-size: 20px;
     text-align:left;
     color:aliceblue;
+    font-family:Helvetica;
 }
 
 a {
-    color:aqua
+    color:aqua;
+    font-family:Helvetica;
 }
