@@ -4,7 +4,7 @@ body {
 }
 
 p {
-  color: red;
+  color: rgb(255, 255, 255);
 }
 
 h1 {
@@ -19,6 +19,10 @@ h2 {
     text-align: center;
     color:azure;
     font-family:Helvetica;
+}
+
+h5 {
+    color:aquamarine;
 }
 
 li {
@@ -38,3 +42,4 @@ a {
     color:aqua;
     font-family:Helvetica;
 }
+
