@@ -1,0 +1,38 @@
+body {
+    background-color:rgb(33, 33, 33);
+    align-items:center
+}
+
+p {
+  color: red;
+}
+
+h1 {
+    font-size: 55px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-family:helvetica;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color:azure
+    font-family:
+}
+
+li {
+    font-size: 20px;
+    text-align:center;
+    color:rgb(255, 255, 255);
+}
+
+ol {
+    font-size: 20px;
+    text-align:left;
+    color:aliceblue;
+}
+
+a {
+    color:aqua
+}
